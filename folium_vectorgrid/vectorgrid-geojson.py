@@ -112,8 +112,7 @@ class VectorGridGeoJson(JSCSSMixin, Layer):
     default_js = [
         (
             "vectorGrid",
-            # TODO: update to our repo
-            "https://unpkg.com/leaflet.vectorgrid@latest/dist/Leaflet.VectorGrid.bundled.js",
+            "https://unpkg.com/leaflet.vectorgrid.geojson@1.3.1-rc1/dist/Leaflet.VectorGrid.bundled.js",
         )
     ]
 
