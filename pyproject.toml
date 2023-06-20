@@ -2,7 +2,7 @@
 name = "folium-vectorgrid-geojson"
 version = "0.1.1"
 description = "VectorGrid plugin for folium"
-
+repository = "https://github.com/zarandras/folium-vectorgrid"
 authors = ["Lukács Gábor <lukacs.hod@gmail.com>", "Molnár András <molnar.andras.jozsef@gmail.com>", "Benjamin Ramser <ahoi@ipwnd.pw>"]
 license = "MIT"
 readme = "readme.md"
@@ -10,7 +10,7 @@ readme = "readme.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 folium = "^0.14.0"
-repository = "https://github.com/zarandras/folium-vectorgrid"
+
 [tool.poetry.group.dev.dependencies]
 gitlint = "^0.19.0"
 pytest = "^7.2.2"
