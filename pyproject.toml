@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "folium-vectorgrid-geojson"
-version = "0.1.1"
+#name = "folium-vectorgrid"
+version = "1.0.0"
 description = "VectorGrid plugin for folium"
 repository = "https://github.com/zarandras/folium-vectorgrid"
 authors = ["Lukács Gábor <lukacs.hod@gmail.com>", "Molnár András <molnar.andras.jozsef@gmail.com>", "Benjamin Ramser <ahoi@ipwnd.pw>"]
